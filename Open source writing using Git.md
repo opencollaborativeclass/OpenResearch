@@ -1,4 +1,4 @@
-Being afraid of losing [this blog](http://technikhil.wordpress.com/2012/01/14/open-source-writing-using-git/), I copy and paste it here. If anyone could tell me how to contact the author please let me know. Thanks. 
+Being afraid of losing [this blog](http://technikhil.wordpress.com/2012/01/14/open-source-writing-using-git/), I copy and paste it here. If anyone could tell me how I could contact the author please let me know. Thanks. 
 
 Open source writing using Git
 
