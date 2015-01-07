@@ -1,3 +1,5 @@
+Being afraid of losing [this blog](http://technikhil.wordpress.com/2012/01/14/open-source-writing-using-git/), I copy and paste it here. If anyone could tell me how to contact the author please let me know. Thanks. 
+
 Open source writing using Git
 
 Of late I have noticed a trend – writers, especially technical writers, are embracing the software development process and incorporating it into their writing process. There’s a great podcast about this on Herding Code where some technical writers talk about this trend.
